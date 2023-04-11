@@ -26,5 +26,5 @@ This project uses the following libraries:
 <h3>tkinter</h3>
 <h3>os</h3>
 
-<p style="color: blue;"> if you have problem with installing libraries using pip install follow  <a href="https://github.com/shahrzad-gdr/problems">this link </a></p>
+<p> if you have problem with installing libraries using pip install follow  <a target="_blank" href="https://github.com/shahrzad-gdr/problems">this link </a></p>
 
