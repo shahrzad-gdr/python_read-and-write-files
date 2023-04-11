@@ -1,6 +1,6 @@
 This project reads an input text file with numbers and prints an asterisk for each count of the number in the file. The user can select the input file to read data from and the output file to store the results using the tkinter library.
 
-How to Use
+How to Use:
 To use this project, follow these steps:
 
 Clone the repository to your local machine.
@@ -26,4 +26,4 @@ This project uses the following libraries:
 tkinter
 os
 
-** if you have problem with installing libraries using pip install folloe this link.
+** if you have problem with installing libraries using pip install folloe [this link](https://github.com/shahrzad-gdr/problems).
