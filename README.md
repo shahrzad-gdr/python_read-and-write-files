@@ -26,5 +26,5 @@ This project uses the following libraries:
 <h3>tkinter</h3>
 <h3>os</h3>
 
-<p style="color: blue;"> if you have problem with installing libraries using pip install folloe [this link](https://github.com/shahrzad-gdr/problems).</p>
+<p style="color: blue;"> if you have problem with installing libraries using pip install folloe </p> <a href="https://github.com/shahrzad-gdr/problems">this link </a>
 
